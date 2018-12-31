@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>Akses melalui simpleHTTPServer</title>
+</head>
+<body>
+    <h3>Selamat datang</h3>
+    <p>Anda mengakses informasi ini melalui program python.
+    Phyton menjalankan modul SimpleHTTPServer. Untuk menjalankan objek tersebut
+    cukup dilakukan dengan mengetikkan di terminal:</p>
+    <pre>python -m SimpleHTTPServer</pre>
+</body>
+</html>
